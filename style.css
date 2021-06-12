@@ -18,7 +18,13 @@ header{
     color: #f2f2f2;
 }
 
-
+footer{
+    width: 100vw;
+    height: 10vh;
+    background: #343434;
+    color: #f2f2f2;
+    padding: 3vh 20vw;
+}
 
 .flexview{
     display: flex;
@@ -88,3 +94,7 @@ header{
     grid-column: 4;
 }
 
+.powered_logo{
+    height: 5vh;
+    margin: 0 1vw;
+}
